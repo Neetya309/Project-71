@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+
+head {
+    text-align: center;
+}
+
+#st.xavier school {
+    height: 50px;
+    width: 75px;
+}
+
+#video {
+    width: 100%;
+}
+
+hr {
+    width: 50%;
+    color: black;
+}
+
+#name {
+    font-size: 50px;
+}
+
+.header_enterpreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.moadal-content {
+    margin-top: 10px
+}
+
+.img madal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px
+}
+
+.modal-body {
+    text-align: center;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.small
+{
+    width:20%;
+}
+.height
+{
+    height:50%;
+    
+}
